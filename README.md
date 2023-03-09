@@ -1,5 +1,5 @@
-# 1С-Битрикс. Удаление дубликатов элементов.
-# Removing Duplicate Items
+# 1С-Битрикс. API. Удаление дубликатов элементов.
+# API. Removing Duplicate Items
 Скрипт для удаления дубликатов элементов информационного блока. Сравнение по наименованию. Удаление старого дубликата по дате создания. </br>
 Script to remove duplicate information block elements. Name comparison. Delete old duplicate by creation date.
 </br></br>
